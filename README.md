@@ -1,4 +1,5 @@
 # Awesome Horizon club Team [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+This repository is mainly inspired by @FCMAM5 who created [Awesome open-minds](https://github.com/open-minds/awesome-openminds-team/)
 A collection of awesome useful and awesome links, resources and shiny things for our friends :smiley:  .
 * [Awesome Horizon Club](https://github.com/Horizon-Club-Oran/awesome-horizon/) 
     * [MOOC Websites](#mooc-websites)
